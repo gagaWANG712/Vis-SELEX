@@ -1,0 +1,9 @@
+[ molecule ]
+ssDNA 0 1 
+[ persistence_length ]
+; model lp first residue last residue
+WCM 1.0 0 70
+[ rectangle ]
+ssDNA 0 70 in 20.0 20.0 20.0 8.0 8.0 8.0
+
+ 

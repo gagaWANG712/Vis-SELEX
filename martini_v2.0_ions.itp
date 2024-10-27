@@ -1,0 +1,13 @@
+[ moleculetype ]
+NA        1
+[atoms]
+;id     type    resnr   residu  atom    cgnr    charge
+ 1  Qd  1   NA   NA+     1   1.0
+[ moleculetype ]
+CL        1
+[atoms]
+;id     type    resnr   residu  atom    cgnr    charge
+1  Qa  1  CL     CL-     1   -1.0
+
+
+

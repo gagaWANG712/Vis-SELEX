@@ -1,0 +1,14 @@
+#include "martini_v2.1-dna.itp"
+#include "martini_v2.0_ions.itp"
+#include "complexDNA.itp"
+[ system ]
+DNA in water 
+[ molecules ]
+ssDNA 1
+W 100000
+NA 228
+CL 28
+
+W 150000
+NA 342
+CL 42
