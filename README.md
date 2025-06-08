@@ -1,6 +1,7 @@
 # Visual-SELEX
 We developed a rapid-response program called Visual-SELEX. This program generates stable 3D structures of ssDNA using coarse-grained simulations and MD simulations. It then transforms these structures into point cloud models. Finally, Visual-SELEX identifies similar spatial structures of ssDNA obtained after the SELEX process by performing point cloud model registration and superposition analysis.
 ## Installation
+Ubuntu >=22.04
 Python >=3.7
 PyTorch >=1.1
 numpy	>= 1.18.1
