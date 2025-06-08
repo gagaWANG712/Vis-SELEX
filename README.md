@@ -11,6 +11,8 @@ scipy	>= 1.5.4
 decorator	4.4.2
 tqdm	>= 4.43.0
 numba >= 0.51.2
+Polyply =1.0
+Pyuul =0.2.0
 ## Running Example
 ### 1. We used the Polyply tool to construct a coarse-grained model for ssDNA
 ```
